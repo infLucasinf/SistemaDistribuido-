@@ -3,8 +3,8 @@
 ## Trabalho da disciplina sistemas distribuídos.
 
 ### Equipe: 
-Matheus Bonifm
-Uriel Lincoln
+Matheus Bonifm,
+Uriel Lincoln e
 Lucas Fonsêca
 
 Esse é um projeto sem o uso do "Maven", segue os passos para executar aplicação: 
