@@ -24,7 +24,7 @@ Continua enviando dados para as réplicas.
 
 ## Documentação das classes que consta no projeto: 
 
-Classe Membro
+** Classe Membro **
 A classe Membro representa um membro de um grupo. 
 Cada membro tem três atributos:
 
