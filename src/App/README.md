@@ -22,7 +22,7 @@ Inicia uma eleição se o líder não estiver ativo.
 Exibe mensagens indicando o resultado da eleição (se o membro se tornou líder ou não).
 Continua enviando dados para as réplicas.
 
-Documentação das classes que consta no projeto: 
+## Documentação das classes que consta no projeto: 
 
 Classe Membro
 A classe Membro representa um membro de um grupo. 
