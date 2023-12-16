@@ -9,7 +9,7 @@ Lucas Fonsêca
 
 Esse é um projeto sem o uso do "Maven", segue os passos para executar aplicação: 
 
-Executar classe TestApp
+
 Inicia o servidor RMI.
 Define um grupo inicial de membros.
 Executa lógica para verificar e iniciar eleições, se necessário.
