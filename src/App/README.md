@@ -10,13 +10,13 @@ Lucas Fonsêca
 Esse é um projeto sem o uso do "Maven", segue os passos para executar aplicação: 
 
 
-Inicia o servidor RMI.
+Ao executar a classe TestAPP, inicia o servidor RMI.
 Define um grupo inicial de membros.
 Executa lógica para verificar e iniciar eleições, se necessário.
 Pode enviar dados replicados para as réplicas.
 
 Executar a classe ReplicCliente
-Tenta se conectar à réplica do servidor.
+tenta se conectar à réplica do servidor.
 Verifica se o líder está ativo.
 Inicia uma eleição se o líder não estiver ativo.
 Exibe mensagens indicando o resultado da eleição (se o membro se tornou líder ou não).
