@@ -1,8 +1,8 @@
 # INF020Trabalho
 
-Trabalho da disciplina sistemas distribuídos.
+## Trabalho da disciplina sistemas distribuídos.
 
-Equipe: 
+### Equipe: 
 Matheus Bonifm
 Uriel Lincoln
 Lucas Fonsêca
