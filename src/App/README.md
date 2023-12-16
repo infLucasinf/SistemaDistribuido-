@@ -55,7 +55,7 @@ receberNotificacao: Recebe notificações no grupo e recebe dados replicados de 
 
 
 
-**Classe TestApp**
+# **TestApp**
 Uma aplicação de teste e membros podem enviar e receber dados replicados, além de realizar eleições para escolher um líder.
 
 
