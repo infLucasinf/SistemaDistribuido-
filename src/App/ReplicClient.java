@@ -33,7 +33,6 @@ public class ReplicClient {
                 System.out.println("Membro " + CANDIDATO_ID + " já é líder.");
             }
 
-            // Continua com a lógica de enviar dados para réplicas
             replica.sendDataToReplicas(data, CANDIDATO_ID);
 
         } catch (Exception e) {
