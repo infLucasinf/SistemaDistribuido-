@@ -24,7 +24,7 @@ Continua enviando dados para as réplicas.
 
 ## Documentação das classes que consta no projeto: 
 
-# **Classe Membro**
+### **Classe Membro**
  Um membro de um grupo. 
 Cada membro tem três atributos:
 
@@ -34,7 +34,7 @@ ativo: Um indicador se o membro está ativo no grupo.
 O construtor é chamado quando um novo membro é criado. Ele recebe valores para id, lider e ativo e os atribui aos atributos.
 
 
-# **Interface RepInterface**
+### **Interface RepInterface**
 A interface "RepInterface" tem vários métodos relacionados à replicação e interação entre membros de um grupo.
 
 Métodos na Interface:
@@ -55,7 +55,7 @@ receberNotificacao: Recebe notificações no grupo e recebe dados replicados de 
 
 
 
-# **TestApp**
+### **TestApp**
 Uma aplicação de teste e membros podem enviar e receber dados replicados, além de realizar eleições para escolher um líder.
 
 
@@ -93,7 +93,7 @@ Notifica os outros membros sobre o novo líder.
 liderId: Armazena o ID do líder atual.
 membros: Lista de membros no grupo, representados pela classe Membro.
 
-# **ReplicCliente**
+### **ReplicCliente**
 Representa cliente em um sistema de replicação distribuída, membros de um grupo compartilham informações e elegem um líder para coordenar as operações.
 
 
